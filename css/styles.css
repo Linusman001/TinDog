@@ -144,30 +144,18 @@ h2 {
   padding: 3% 2%;
   text-align: center;
 }
-
-@media (max-width: 992px) {
-  .title-image {
-    position: static;
-    transform: rotate(0);
-  }
-
-  #title {
-    text-align: center;
-  }
-}
-
 /*                               Cta Section                                  */
 
 #cta {
   text-align: center;
-  padding: 5% 23%;
+  padding: 7% 15%;
   background-color: #ff4c68;
 }
 
 .cta-h3 {
   font-family: "Montserrat";
   font-weight: 900;
-  font-size: 2.5rem;
+  font-size: 3rem;
   color: #fff;
   padding-bottom: 50px;
   margin-bottom: 0;
@@ -180,7 +168,7 @@ h2 {
 
 #footer {
   text-align: center;
-  padding: 7% 0;
+  padding: 7% 15%;
 }
 
 .foot-icons {
@@ -192,4 +180,15 @@ h2 {
   font-family: "Monteserrat";
   font-size: 1rem;
   font-weight: bold;
+}
+
+@media (max-width: 992px) {
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+
+  #title {
+    text-align: center;
+  }
 }
