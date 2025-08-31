@@ -1,4 +1,5 @@
-# BOOTSTRAP PROJECT
+# TINDOG
+## BOOTSTRAP PROJECT
 
 ## Site built with Bootstrap and little of Advanced CSS
 
